@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Planner",
+  "description": "All-in-one study management app for daily timetable, coaching, school, Bihar Board (BSEB 11/12), JEE Main prep, Pomodoro timer, homework, revision, and test tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
